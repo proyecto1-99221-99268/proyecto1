@@ -1,0 +1,59 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	height: 200px;
+	width: 100%;
+   background: fuchsia;
+
+}
+
+body{
+	background: #000000;
+}
+.contenedor{
+	width: 90%;
+	height: 520px;
+	margin: auto;
+	background-color: #FF8000;
+	margin-top: 10px;
+
+
+}
+
+
+
+.canvas{
+	width: 580px;
+	height: 500px;
+	background: #0000ff;
+	float: left;
+	margin: 10px;
+}
+
+
+.opciones{
+	width: 580px;
+	height: 500px;
+	background: #f00fff;
+	float: right;
+	margin:10px;
+}
+.acciones{
+	width: 90%;
+	height: 150px;
+	background: #0eeeee;
+	margin: auto;
+
+}
+
+
+.footer{
+	height: 150px;
+	width: 100%;
+	background:#00FF00 ;
+	margin-top: 5px;
+	
+}
